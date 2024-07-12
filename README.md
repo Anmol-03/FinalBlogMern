@@ -1,2 +1,2 @@
 # FinalBlogMern
-Wonderful Blog app and resolving git errors
+The frontend and the server is in the master branch of the repo
